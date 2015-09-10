@@ -6,7 +6,7 @@ Its a very secure ```php``` login form which will provide you login and logout s
     -Remember me
     -Show profile
     -Show profile info
-#####Source Code are very easy to read all the syntax are explained properly by comments. ```note``` I use here ```PDO``` Database connection method.
+#####Source Code are very easy to read all the syntax are explained properly by comments. ```note``` I use here ```PDO``` Database connection method, so that you can able to connect any types of database connection if you want.
 
 [demo](http://i.imgur.com/8GxIrDD.gif)
 ![alt tag](http://i.imgur.com/mwQYveB.gif)
