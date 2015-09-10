@@ -1,5 +1,5 @@
 # A-better-login-form
-Its a very secure ```php``` login system/apps/form which will provide you login and logout securely. you can modify as your own choise. 
+Its a very secure ```php``` login form which will provide you login and logout securely. you can modify as your own choise. 
 #####Features
     -Login
     -Logout
